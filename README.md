@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @alitjanjua
+- 👋 Hi, I’m ME! Part time chief information officer, full time chief badass officer :rage1:
 - 👀 I’m interested in solving architectural problems, producing issues, debugging and fixing them for good.
 - 🌱 I’m currently learning Devops.
-- 💞️ I’m looking to collaborate on App Development.
 - 📫 You can reach me here alitjanjua@gmail.com
 
 <!---
