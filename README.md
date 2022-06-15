@@ -1,7 +1,8 @@
 - 👋 Hi, I’m ME! Part time chief information officer, full time chief badass officer :rage1:
-- 👀 I’m interested in solving architectural problems, producing issues, debugging and fixing them for good.
+- 👀 I’m interested in solving architectural problems, producing problems for every solution.
+- ✨ A mern stack developer at day, solution thinker at night
 - 🌱 I’m currently learning Devops.
-- 📫 You can reach me here alitjanjua@gmail.com
+- 📫 You can reach me at my personal email alitjanjua@gmail.com
 
 <!---
 alitjanjua/alitjanjua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
